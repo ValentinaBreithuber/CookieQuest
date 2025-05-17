@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b328f287563888c4fa185e47bb986966
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpSound: {fileID: 8300000, guid: 2f232bcba3c50fb4289543810419c449, type: 3}
+  - deathSound: {fileID: 8300000, guid: e617f2ac02925b3418b70f93b0a3a7c6, type: 3}
+  - cookieSound: {fileID: 8300000, guid: 7dcbe8ac8aaf57846aade49f072bfc94, type: 3}
+  - winSound: {fileID: 8300000, guid: 716fb26732ae27c41830bf11f96dbf2a, type: 3}
+  - cManag: {instanceID: 0}
+  - gManag: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc1c67bf26679dc47a40c554830fa847
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathSound: {fileID: 8300000, guid: e617f2ac02925b3418b70f93b0a3a7c6, type: 3}
+  - gameOverScreen: {instanceID: 0}
+  - cookieText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
